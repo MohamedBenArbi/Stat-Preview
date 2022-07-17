@@ -6,8 +6,10 @@ module.exports = {
     extend: {
 
       colors: {
-        ppl: {
-          100: '#371B58',
+        Cl: {
+          100: '#0a0c1b',
+          200: '#1c1938',
+          300: "#7a429d",
         }
       }
     },
